@@ -5,8 +5,8 @@
 }
 
 body {
-  background-color: rebeccapurple;
-  color: #fff;
+  background: linear-gradient(to right, #badcce, #60957f);
+  color: white;
   font-family: "Muli", sans-serif;
   display: flex;
   flex-direction: column;
@@ -24,7 +24,7 @@ h2 {
 }
 
 .container {
-  background-color: rgb(69, 17, 118);
+  background-color: rgb(98, 126, 115);
   box-shadow: 0px 2px 10px rgba(255, 255, 255, 0.2);
   padding: 20px;
   width: 350px;
@@ -66,8 +66,8 @@ h2 {
 
 .btn {
   border: none;
-  background-color: rgb(35, 5, 66);
-  color: #fff;
+  background-color: #3d4e47;
+  color: white;
   font-size: 16px;
   padding: 8px 12px;
   cursor: pointer;
