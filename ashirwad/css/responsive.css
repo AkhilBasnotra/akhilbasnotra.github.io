@@ -321,15 +321,15 @@
     bottom: 0;
   }
   .banner-main .carousel-caption h1 {
-    font-size: 26px;
+    font-size: 44px;
     line-height: 50px;
-    margin-bottom: 19px;
+    /* margin-bottom: 19px; */
   }
 
   .banner-main .carousel-caption p {
     font-size: 17px;
     padding: 7px 0px 20px 0px;
-    display: none;
+    /* display: none; */
   }
   .carousel-item img {
     width: 100%;
