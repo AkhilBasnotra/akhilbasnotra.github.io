@@ -1565,7 +1565,7 @@ nav.main-menu {
 
 .service {
   padding-top: 90px;
-  padding-bottom: 60px;
+  padding-bottom: 111px;
   background: #f4f4f4;
   margin-top: 90px;
 }
@@ -1891,7 +1891,7 @@ img.zoom {
 
 .contact {
   background: #2f2e2e;
-  padding: 60px 0px 70px 0px;
+  padding: 60px 0px 0px 0px;
 }
 
 .contact .titlepage {
@@ -1964,11 +1964,12 @@ img.zoom {
 .footer {
   background: #fc4311;
   padding-top: 55px;
+  margin: 0 -120px;
 }
 
 .footer .address h3 {
   color: #fff;
-  font-size: 25px;
+  font-size: 32px;
   line-height: 35px;
   font-weight: 500;
   padding-bottom: 20px;
@@ -2040,8 +2041,8 @@ ul.contant_icon li {
 }
 
 ul.contant_icon li img {
-  width: 32px;
-  height: 32px;
+  width: 46px;
+  height: 46px;
 }
 
 .footer .newsletter h3 {

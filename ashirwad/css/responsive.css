@@ -407,3 +407,15 @@
     margin-bottom: 20px;
   }
 }
+
+@media (max-width: 575px) {
+  .footer {
+    background: #fc4311;
+    padding-top: 55px;
+    margin: 0 -13px;
+  }
+  .map {
+    height: 250px;
+    width: 350px;
+  }
+}
