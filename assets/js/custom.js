@@ -61,12 +61,12 @@
     });
 
     $(".mu-photoshop-bar").LineProgressbar({
-      percentage: 55,
+      percentage: 65,
       triggerOnce: true,
     });
 
     $(".mu-wordpress-bar").LineProgressbar({
-      percentage: 60,
+      percentage: 55,
       triggerOnce: true,
     });
 
